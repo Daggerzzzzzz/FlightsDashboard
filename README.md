@@ -55,8 +55,11 @@ Explore the leading airlines:
 - **🔗 Storytelling with Data:** Transforming raw numbers into meaningful narratives.
 - **🧩 Data-Driven Insights:** Identifying key metrics for actionable decisions.
 - **📊 Data Visualization:** Creating intuitive visuals for complex datasets.
-Preview
-
+# Preview
+![Most Optimal Skills](Assets/Slide2.png)
+<p align="center">
+  <i>Dashboard Preview.</i>
+</p>
 
 
 
