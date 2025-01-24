@@ -1,7 +1,7 @@
 # Introduction
 Welcome to the Airline Flight Analysis Dashboard! This interactive dashboard provides an overview of airline performance metrics, offering insights into revenue, flights, and aircraft usage. Perfect for exploring trends and making data-driven decisions in the aviation industry!
 
-Check the project here: [FlightDashboard](ProjectFiles/SalaryDatabase.sql)
+Check the project here: [FlightDashboard](flight_dashboard.pbix)
 # Background 
 Take a deep dive into flight analytics with our interactive dashboard! 🚀 Discover insights into:
 - Revenue Trends 💵
