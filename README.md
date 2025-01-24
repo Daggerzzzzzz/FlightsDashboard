@@ -56,7 +56,7 @@ Explore the leading airlines:
 - **🧩 Data-Driven Insights:** Identifying key metrics for actionable decisions.
 - **📊 Data Visualization:** Creating intuitive visuals for complex datasets.
 # Preview
-![Most Optimal Skills](Assets/Slide2.png)
+![Dashboard](Assets/Slide2.PNG)
 <p align="center">
   <i>Dashboard Preview.</i>
 </p>
